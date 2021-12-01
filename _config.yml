@@ -1,0 +1,84 @@
+---
+booktitle: Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial
+  Intelligence
+shortname: UAI
+volume: '161'
+year: '2021'
+start: 2021-07-27
+end: 2021-07-30
+published: 2021-12-01
+conference_number: '37'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: UAI-2021
+month: 0
+cycles: false
+bibtex_editor: de Campos, Cassio and Maathuis, Marloes H.
+editor:
+- given: Cassio
+  family: Campos
+  prefix: de
+- given: Marloes H.
+  family: Maathuis
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence
+    Held in Online on 27-30 July 2021
+
+  Published as Volume 161 by the Proceedings of Machine Learning Research on 01 December 2021.
+
+  Volume Edited by:
+    Cassio de Campos
+    Marloes H. Maathuis
+
+  Series Editors:
+    Neil D. Lawrence
+    * Mark Reid
+date_str: 27--30 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v161"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v161
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v161
+email: ''
+conference:
+  name: Uncertainty in Artificial Intelligence
+  url: https://www.auai.org/uai2021/
+  location: Online
+  dates:
+  - 2021-07-27
+  - 2021-07-28
+  - 2021-07-29
+  - 2021-07-30
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v161/uai21.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v161/uai21.bib
